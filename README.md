@@ -3,4 +3,4 @@
 
 # Config file
 `spawn-naturally`: Phantoms ability spawn naturally.
-`spawn-via-cmd` `Phantoms ability to spawn via commands.`
+`spawn-via-cmd`: Phantoms ability to spawn via commands.
