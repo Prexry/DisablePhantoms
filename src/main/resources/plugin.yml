@@ -1,0 +1,9 @@
+name: NoPhantoms
+main: com.prexry.NoPhantoms.NoPhantomsPlugin
+version: 1.0
+description: Prevents phantoms from spawning naturally or via command.
+author: YourName
+commands:
+  nophantoms:
+    description: Reload the NoPhantoms configuration.
+    usage: /nophantoms reload
