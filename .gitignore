@@ -1,4 +1,5 @@
 .gradle/
+.gradle
 .vscode/
 build/
 gradle-wrapper.properties
